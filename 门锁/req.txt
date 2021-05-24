@@ -1,0 +1,5 @@
+mfrc522
+pyfingerprint
+pymysql
+requests
+socket
